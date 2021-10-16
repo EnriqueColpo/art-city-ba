@@ -50,6 +50,11 @@ li {
     font-size: 22px;
 }
 
+#trabajo {
+    font-size: 16px;
+
+}
+
 
 hr {
     margin: 0px 0px 5px 0px;
@@ -101,13 +106,21 @@ footer a {
 .content {
     margin-top: 10px;
     margin-bottom: 30px;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
 
+}
+
+.row {
+    width: 100%;
 }
 
 main {
 
     border: black;
     border-radius: 1px;
+}
+
+.col {
+    margin-right: 2px;
 }
